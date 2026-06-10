@@ -1,12 +1,12 @@
 def add(a, b):
     return a + b
 def sub(a, b):
-    if [a -gt b]
+    if [$a -gt $b]
     then
 	return a - b
     break
     fi
-    if [a -gt b]
+    if [$a -gt $b]
     then
         return b - a
     break
